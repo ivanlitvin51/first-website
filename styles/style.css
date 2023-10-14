@@ -1,0 +1,17 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial;
+}
+
+html {
+    font-family: Arial;
+}
+
+p,
+#vk,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}

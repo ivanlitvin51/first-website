@@ -1,2 +1,2 @@
-# Git and Github Course
-git-course
+# First web-site
+Hello there!

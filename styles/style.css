@@ -15,3 +15,24 @@ li {
     line-height: 2;
     letter-spacing: 1px;
 }
+
+body {
+    padding: 0px 20px 20px 20px;
+    border: 5px solid black;
+    margin: 5px auto;
+    width: 600px;
+    align-items: center;
+    background-color: #FFEAFE;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #E4FED6;
+    text-shadow: 3px 3px 5px black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
